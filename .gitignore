@@ -1,0 +1,15 @@
+# Build artifacts
+CleaningMode
+CleaningMode.app/
+CleaningMode.dmg
+CleaningMode_rw.dmg
+dmg_staging/
+
+# Intermediate files
+dmg_background.png
+cleaningmode_dmg.png
+imageclean_full.png
+icon.iconset/
+
+# macOS
+.DS_Store
