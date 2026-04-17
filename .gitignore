@@ -13,3 +13,7 @@ icon.iconset/
 
 # macOS
 .DS_Store
+
+# Notarization credentials (NEVER commit!)
+*.p8
+AuthKey_*.p8
